@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/domain/task.test.ts","./src/domain/task.ts","./src/domain/tokenamount.test.ts","./src/domain/tokenamount.ts","./src/infrastructure/bridgewallet.ts","./src/ui/app.tsx","./src/ui/taskpanel.tsx"],"version":"5.9.3"}
